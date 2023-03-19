@@ -1,7 +1,7 @@
 Medical Store Management System
 --------------------------------
 
-In this project I have deployed a Medical Store Management System as a desktop App using Java and MySQL.
+In this project I have deployed Medical Store Management System  as a desktop App using Java and MySQL.
 
 Softwares Used in this Project :
 NetBeans Text Editor for deploying the Java files (You can use any text editor for developing the Java codes)
