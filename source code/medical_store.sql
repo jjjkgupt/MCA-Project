@@ -1,6 +1,3 @@
-SQL*Plus:  Release 10.2.0.1.0 - Production on Sat Nov 10  12:34:47  2018
-
-Copyright <c> 1982, 2005, Oracle.  All rights reserved.
 
 SQL>connect
 Enter user-name:system
